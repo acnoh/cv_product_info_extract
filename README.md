@@ -1,0 +1,1 @@
+# cv_product_info_extract
