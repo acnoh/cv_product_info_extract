@@ -3,5 +3,5 @@ train: /Users/andreanoh/Documents/Spring 2025 6010 ComputerVision/cv_product_inf
 val: /Users/andreanoh/Documents/Spring 2025 6010 ComputerVision/cv_product_info_extract/images/val
 
 #2 classes
-nc: 2 
-names: ["quarter", "product"]
+nc: 2
+names: ['quarter','product']

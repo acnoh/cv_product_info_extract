@@ -1,0 +1,6 @@
+train: /Users/annieilling/Documents/UNCC/6010 - Applied Computer Vision/VS_Code/cv_product3.v1i.yolov8/train/images
+val: /Users/annieilling/Documents/UNCC/6010 - Applied Computer Vision/VS_Code/cv_product3.v1i.yolov8/valid/images
+test: /Users/annieilling/Documents/UNCC/6010 - Applied Computer Vision/VS_Code/cv_product3.v1i.yolov8/test/images
+
+nc: 2
+names: ['product', 'quarter']
